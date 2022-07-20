@@ -4,8 +4,6 @@ A notebook gallery of the sits package
 
 <img src="icon/sitsnobooks.png" alt="SITS icon" align="right" height="150" width="120"/>
 
-------------------------
-
 [![CRAN
 status](https://www.r-pkg.org/badges/version/sits)](https://cran.r-project.org/package=sits)
 [![Documentation](https://img.shields.io/badge/docs-online-blueviolet)](https://e-sensing.github.io/sitsbook/)
