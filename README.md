@@ -2,7 +2,7 @@
 
 #### Notebooks gallery of Satellite Image Time Series Analysis for Earth Observation Data Cubes Package
 
-================
+----
 
 [![CRAN
 status](https://www.r-pkg.org/badges/version/sits)](https://cran.r-project.org/package=sits)
