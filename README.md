@@ -16,8 +16,8 @@ This repository contains usage notebooks for the `sits` package:
 - [Working with time series](https://github.com/e-sensing/sitsnotebooks/blob/main/Working_with_time_series/working-with-time-series-in-sits.ipynb)
 - [Classification of Images in Data Cubes using Satellite Image Time Series](https://github.com/e-sensing/sitsnotebooks/blob/main/Land_cover_classification/raster-classification-in-sits.ipynb)
 - [Improving the Quality of Training Samples](https://github.com/e-sensing/sitsnotebooks/blob/main/Improving_training_samples/sample-quality-control-using-som.ipynb)
-- [Machine Learning for Data Cubes using the SITS package (Under Contruction)](github.com/esensing/sitsnotebooks)
-- [Uncertainty and active learning (Under Contruction)](github.com/esensing/sitsnotebooks)
+- [Machine Learning for Data Cubes using the SITS package (Under Contruction)](https://github.com/e-sensing/sitsnotebooks)
+- [Uncertainty and active learning (Under Contruction)](https://github.com/e-sensing/sitsnotebooks)
 - [Use cases](https://github.com/e-sensing/sitsnotebooks/tree/main/Use_cases/)
 
 > Repository is under construction. New notebooks will be added as the sits package is updated.
