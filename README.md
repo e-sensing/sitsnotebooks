@@ -13,7 +13,8 @@ License](https://img.shields.io/badge/license-GPL--2-green)](https://github.com/
 This repository contains examples and use cases created using the [sits](https://github.com/e-sensing/sits) R package.
 
 **New materials**
-- [XXI Brazilian Remote Sensing Symposium](./SBSR_2025)
+- [XXV Brazilian Symposium on Geoinformatics (GEOINFO 2025)](./GEOINFO_2025/)
+- [XXI Brazilian Remote Sensing Symposium (SBSR 2025)](./SBSR_2025)
 
 **Other materials**
 - [Introduction to **sits**](https://github.com/e-sensing/sitsnotebooks/blob/main/Introduction_to_SITS/introduction-to-sits.ipynb)
