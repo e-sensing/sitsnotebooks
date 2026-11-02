@@ -13,8 +13,7 @@ License](https://img.shields.io/badge/license-GPL--2-green)](https://github.com/
 This repository contains examples and use cases created using the [sits](https://github.com/e-sensing/sits) R package.
 
 **New materials**
-- [XXV Brazilian Symposium on Geoinformatics (GEOINFO 2025)](./GEOINFO_2025/)
-- [XXI Brazilian Remote Sensing Symposium (SBSR 2025)](./SBSR_2025)
+- [GeoPantanal 2026](./GEOPANTANAL_2026)
 
 **Other materials**
 - [Introduction to **sits**](https://github.com/e-sensing/sitsnotebooks/blob/main/Introduction_to_SITS/introduction-to-sits.ipynb)
@@ -24,3 +23,5 @@ This repository contains examples and use cases created using the [sits](https:/
 - [Improving the Quality of Training Samples](https://github.com/e-sensing/sitsnotebooks/blob/main/Improving_training_samples/sample-quality-control-using-som.ipynb)
 - [Machine Learning for Data Cubes using the SITS package (Under Contruction)](https://github.com/e-sensing/sitsnotebooks)
 - [Uncertainty and active learning (Under Contruction)](https://github.com/e-sensing/sitsnotebooks)
+- [XXV Brazilian Symposium on Geoinformatics (GEOINFO 2025)](./GEOINFO_2025/)
+- [XXI Brazilian Remote Sensing Symposium (SBSR 2025)](./SBSR_2025)
